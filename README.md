@@ -6,4 +6,5 @@ Transfermarkt (who provided the initial dataset via Kaggle) do this already but 
 
 I essentially wanted to see would players from the same position be grouped together in clusters based on performance data and some physical characteristics like age and height.
 
-![image](https://user-images.githubusercontent.com/56002246/147890124-09906eef-462b-4019-98a7-dafab8e59b40.png)
+https://tenor.com/view/lautaro-martinez-lautaro-martinez-inter-lautaro-lautaro-inter-inter-gif-21732278
+
