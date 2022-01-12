@@ -3,7 +3,7 @@
 This has 2 features:
 
 1) Enter a Serie A player name, get a player with most similar characteristics back. Transfermarkt has this feature but I wanted to put it together myself. This uses Euclidean distance.
-2) Enter a player from outside Serie A and get a prediction for their position. This uses K-Nearest Neighbour
+2) IN DEVELOPMENT: Enter a player from outside Serie A and get a prediction for their position. This uses K-Nearest Neighbour
 
 
 I love the Italian Serie A so this is a program for finding players who are similar based their number of performances, assists, goals scored and cards but NOT their position.
