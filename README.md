@@ -14,4 +14,5 @@ I essentially wanted to see would players from the same position be grouped toge
 
 
 
-![lautaro-martinez-lautaro-martinez-inter](https://user-images.githubusercontent.com/56002246/147890189-76df34f8-1caf-4166-a407-6bbcd51b7396.gif)
+![image](https://user-images.githubusercontent.com/56002246/155405039-833aa817-945a-43e0-a264-0c1d3a55080f.png)
+
