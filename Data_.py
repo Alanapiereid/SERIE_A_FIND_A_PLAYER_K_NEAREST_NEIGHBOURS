@@ -26,14 +26,12 @@ df2 = pd.read_csv('appearances.csv', encoding='utf-8')
 df_ = df2[(df2['player_id'].isin(player_IDs)) & (df2['competition_id'] == 'IT1')]
 df_ = df_.groupby('player_id').agg({'goals' : 'mean', 'assists' : 'mean', 'minutes_played' : 'mean', 'yellow_cards' : 'mean', 'red_cards' : 'mean'})
 df = df.join(df_, on='player_id')
-#print(df.head())
 
 # NORMALIZATION #
 numeric_columns = ['height_in_cm', 'highest_market_value_in_gbp', 'goals', 'assists', 'yellow_cards', 'red_cards']
 normalize = df[numeric_columns]
 normalized = (normalize - normalize.mean()) / normalize.std()
 normalized.fillna(0, inplace=True)
-#print(normalized.head())
 
 
 import base64
